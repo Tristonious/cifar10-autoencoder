@@ -139,7 +139,7 @@ The original implementations for this project were developed as coursework. The 
 
 ## Paper
 
-Full write-up including model architecture, experimental methodology, and discussion: [`Project 1 Paper`](docs/Project1_CSCI8110_TristanJones.pdf)
+Full write-up including model architecture, experimental methodology, and discussion: [`Cifar10 Autoencoder`](docs/Project1_CSCI8110_TristanJones.pdf)
 
 ---
 
