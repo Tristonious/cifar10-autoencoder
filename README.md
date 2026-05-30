@@ -131,11 +131,15 @@ python compare_runs.py \
 
 ---
 
-## AI Assistance
+## Note on AI Assistance
 
-- **GitHub Copilot** — code generation and implementation
-- **ChatGPT** — writing clarity
-- **Claude** — repo structure and README
+The original implementations for this project were developed as coursework. The code in this repository has been refactored with the assistance of Claude (Anthropic) for clarity, structure, and readability. GitHub Copilot was used during the original implementation for code generation, and ChatGPT was used for writing clarity. The underlying model design, experimental methodology, and analysis are my own work.
+
+---
+
+## Paper
+
+Full write-up including model architecture, experimental methodology, and discussion: [`Project 1 Paper`](docs/Project1_CSCI8110_TristanJones.pdf)
 
 ---
 
